@@ -1,5 +1,7 @@
 # go-pass
 
+[![GoDoc](https://godoc.org/snai.pe/go-pass?status.svg)](https://godoc.org/snai.pe/go-pass)  
+
 ```
 go get snai.pe/go-pass
 ```
